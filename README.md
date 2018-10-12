@@ -26,5 +26,5 @@ For the CS 492 class, Mobile Development, we have formed team 7:
 
 * Drake Seifert (seifertd@oregonstate.edu)
 * Nathan Shepherd (shephern@oregonstate.edu)
-* Alea Weeks (weeksr@oregonstat.edu)
+* Alea Weeks (weeksr@oregonstate.edu)
 * Griffin Gonsalves (gonsalvg@oregonstate.edu)
